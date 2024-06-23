@@ -1,4 +1,5 @@
-## Hi there 👋
+# About me
+I am currently completing Harvard's CS50x course. I have already begun exploring HTML5, CSS and Javascript, but I also enjoy learning Python. In the long term, I'm looking to develop my own portfolio website and break into software development. 
 
 <!--
 **raven-elizabeth/raven-elizabeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
