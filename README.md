@@ -16,8 +16,6 @@ ___
 - [ ] Raspberry Pi Advent Calendar
 - [ ] Pygame Project
 
-___
-
 ## Past Projects:
 ### Collaborative:
 - [x] Halloween Quiz (JavaScript, HTML, CSS)
