@@ -17,7 +17,7 @@ ___
 
 ## Past Projects:
 ### Collaborative:
-- [x] Interactive Travel Planner App (Flask, APIs, MySQL, FPDF, Pandas, unittest)
-- [x] Halloween Quiz (JavaScript, HTML, CSS)
+- [x] Interactive Travel Planner App (Python: Flask, APIs, MySQL, FPDF, Pandas, unittest)
 - [x] Spreadsheet Analysis (Python: Pandas, Seaborn, Matplotlib)
+- [x] Halloween Quiz (JavaScript, HTML, CSS)
 ___
