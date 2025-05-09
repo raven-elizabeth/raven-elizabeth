@@ -13,11 +13,11 @@ My interests include:
 * Raspberry Pi 🤖
 ___
 ## Ongoing Projects:
-- [ ] Raspberry Pi Advent Calendar
 - [ ] Pygame Project
 
 ## Past Projects:
 ### Collaborative:
+- [x] Interactive Travel Planner App (Flask, APIs, MySQL, FPDF, Pandas, unittest)
 - [x] Halloween Quiz (JavaScript, HTML, CSS)
 - [x] Spreadsheet Analysis (Python: Pandas, Seaborn, Matplotlib)
 ___
