@@ -16,8 +16,11 @@ ___
 - [ ] Pygame Project
 
 ## Past Projects:
+- [x] Simulated Streaming Service with Bug Report Feature (Python, MySQL: Flask, requests, webbroswer, json, random)
+- [x] SQL Normalised Database Design for Simulated Business Use Case (*Not based on real data or an actual business' design - made entirely from scratch using imagination and mock data*)
+- [x] Country Search with 'Past Travels' and 'Wishlist' files (Python: API, datetime, csv, pandas)
 ### Collaborative:
-- [x] Interactive Travel Planner App (Python: Flask, APIs, MySQL, FPDF, Pandas, unittest)
+- [x] Interactive Travel Planner App (Python: Flask, APIs, MySQL, FPDF, Pandas, csv, unittest)
 - [x] Spreadsheet Analysis (Python: Pandas, Seaborn, Matplotlib)
 - [x] Halloween Quiz (JavaScript, HTML, CSS)
 ___
