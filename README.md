@@ -12,8 +12,10 @@ My interests include:
 * Travel 🧳
 * Raspberry Pi 🤖
 ___
-## Ongoing Projects:
+## Upcoming Projects:
 - [ ] Pygame Project
+- [ ] SQLite Project
+- [ ] PostgreSQL Project
 
 ## Past Projects:
 - [x] Simulated Streaming Service with Bug Report Feature (Python, MySQL: Flask, requests, webbroswer, json, random)
