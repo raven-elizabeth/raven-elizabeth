@@ -2,7 +2,7 @@
 ___
 I'm looking to further my knowledge and integrate within the coding community.
 
-I am a~~n aspiring~~ software developer. My experience is primarily with Python. I am familiar with HTML5, CSS and JavaScript, but I also enjoy learning other languages, too. 
+I am a~~n aspiring~~ software developer. My experience is primarily with Python and SQL. I am also familiar with HTML5, CSS and JavaScript. 
 I am focusing on developing my skills in order to begin my tech career, having most recently completed Code First Girls' Software Engineering Degree.
 > I would love to collaborate on any projects!
 
@@ -12,11 +12,11 @@ My interests include:
 * Travel 🧳
 * Raspberry Pi 🤖
 ___
-## Upcoming Projects:
-- [ ] Trees & Graphs
-- [ ] Pygame
-- [ ] SQLite
-- [ ] PostgreSQL
+## Upcoming Projects
+- [ ] Updating Past Projects (In Progress)
+- [ ] Automated File Organiser
+- [ ] Full Stack App using SQLite
+- [ ] AI Chatbot
 
 ## Past Projects:
 - [x] Simulated Streaming Service with Bug Report Feature (Python, MySQL: Flask, requests, webbroswer, json, random)
