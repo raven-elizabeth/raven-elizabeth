@@ -13,12 +13,12 @@ My interests include:
 * Raspberry Pi 🤖
 ___
 ## Upcoming Projects
-- [ ] Updating Past Projects (In Progress)
-- [ ] Automated File Organiser
+- [ ] Updating Past Projects (Ongoing)
 - [ ] Full Stack App using SQLite
 - [ ] AI Chatbot
 
 ## Past Projects:
+- [x] Downloads File Organiser for Windows (automated with Windows Task Scheduler)
 - [x] Simulated Streaming Service with Bug Report Feature (Python, MySQL: Flask, requests, webbroswer, json, random)
 - [x] SQL Normalised Database Design for Simulated Business Use Case (*Not based on real data or an actual business' design - made entirely from scratch using imagination and mock data*)
 - [x] Country Data Search with 'Past Travels' and 'Wishlist' files (Python: API, Pandas, datetime, csv)
