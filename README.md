@@ -1,15 +1,15 @@
 # Hi! I'm Raven 🐦‍⬛
 ___
-I'm looking to further my knowledge and integrate within the coding community.
+I am a~~n aspiring~~ software developer. I am currently learning Java. 
+My past experience is primarily with Python and SQL. I am also familiar with HTML5, CSS and JavaScript.
 
-I am a~~n aspiring~~ software developer. My experience is primarily with Python and SQL. I am also familiar with HTML5, CSS and JavaScript. 
-I am focusing on developing my skills in order to begin my tech career, having most recently completed Code First Girls' Software Engineering Degree.
+I completed Code First Girls' Software Engineering Degree (Spring 2025) and highly recommend it! Now, I am focusing on developing my skills as I begin my tech career.
 > I would love to collaborate on any projects!
 
 My interests include:
 * Reading 📖
 * Gaming 🎮
-* Travel 🧳
+* Travel 🧳🤿
 * Raspberry Pi 🤖
 ___
 ## Upcoming Projects
