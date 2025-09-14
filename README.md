@@ -1,7 +1,8 @@
 # Hi! I'm Raven 🐦‍⬛
 ___
-I am a~~n aspiring~~ software developer. I am currently learning Java. 
+I am a~~n aspiring~~ software developer.
 My past experience is primarily with Python and SQL. I am also familiar with HTML5, CSS and JavaScript.
+I am currently exploring other languages as part of my apprenticeship.
 
 I completed Code First Girls' Software Engineering Degree (Spring 2025) and highly recommend it! Now, I am focusing on developing my skills as I begin my tech career.
 > I would love to collaborate on any projects!
