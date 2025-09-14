@@ -13,9 +13,7 @@ My interests include:
 * Raspberry Pi 🤖
 ___
 ## Upcoming Projects
-- [ ] Updating Past Projects (Ongoing)
-- [ ] Full Stack App using SQLite
-- [ ] AI Chatbot
+- [ ] Website for Author Profile using Netlify
 
 ## Past Projects:
 - [x] Downloads File Organiser for Windows (automated with Windows Task Scheduler)
