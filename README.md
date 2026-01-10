@@ -1,8 +1,8 @@
 # Hi! I'm Raven 🐦‍⬛
 ___
 I am a software developer.
-My past experience is primarily with Python and SQL. I am also familiar with HTML5, CSS and JavaScript.
-I am currently exploring Java.
+My past experience is primarily with Python and SQL. I am somewhat familiar with HTML5, CSS and JavaScript.
+I am currently exploring Java & C#.
 
 I completed Code First Girls' Software Engineering Degree (Spring 2025) and highly recommend it! Now, I am focusing on developing my skills as I begin my tech career.
 > I would love to collaborate on any projects!
@@ -13,8 +13,6 @@ My interests include:
 * Travel 🧳🤿
 * Raspberry Pi 🤖
 ___
-## Upcoming Projects
-- [ ] Website for Author Profile using Netlify
 
 ## Past Projects:
 - [x] Downloads File Organiser for Windows (automated with Windows Task Scheduler)
